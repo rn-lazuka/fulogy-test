@@ -1,0 +1,11 @@
+import React from 'react';
+
+const InfoPage = (props) => {
+  return (
+      <div className={s.mainContainer}>
+
+      </div>
+  );
+};
+
+export default InfoPage;

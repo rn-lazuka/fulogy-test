@@ -1,0 +1,13 @@
+import React from 'react';
+
+const Thumbnails = () => {
+  return (
+      <div className={s.container}>
+        <div className={s.item}></div>
+        <div className={s.item}></div>
+        <div className={s.item}></div>
+      </div>
+  );
+};
+
+export default Thumbnails;

@@ -1,0 +1,27 @@
+.container {
+    height: 10vh;
+    display: flex;
+    background-color: #f8f8f8;
+    padding-left: 5vw;
+}
+
+.navBlock {
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: #f8f8f8;
+    border-bottom: solid 2px #00B6FF;
+    box-sizing: border-box;
+    width: 10vw;
+    padding: 5px;
+    cursor: pointer;
+    composes: block-center from '../../_variables.css';
+}
+.navBlock:hover{
+    background-color: #00B6FF;
+    opacity: 0.6;
+    color: white;
+ }
+.navBlock.activeBtn{
+    background-color: #00B6FF;
+    color: white;
+ }
