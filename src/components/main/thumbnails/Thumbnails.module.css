@@ -1,13 +1,30 @@
-import React from 'react';
+.container {
+    height: 23vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
 
-const Thumbnails = () => {
-  return (
-      <div className={s.container}>
-        <div className={s.item}></div>
-        <div className={s.item}></div>
-        <div className={s.item}></div>
-      </div>
-  );
-};
-
-export default Thumbnails;
+.item {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: #ffffff;
+    font-size: 3vh;
+    cursor: pointer;
+    width: 140px;
+    height: 110px;
+    z-index: 2;
+    box-sizing: border-box;
+}
+.choice{
+    position: absolute;
+    border-radius: 5px;
+    z-index: 5;
+    width: 20%;
+    height: 25%;
+    right: 10px;
+    top:10px;
+    background-color: blue;
+}

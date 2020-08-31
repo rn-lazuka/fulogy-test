@@ -1,0 +1,10 @@
+.block-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.block-color{
+    background-color: #00B6FF;
+    color: white;
+}

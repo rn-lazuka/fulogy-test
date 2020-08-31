@@ -1,10 +1,4 @@
-.descriptionContainer {
-    height: 100%;
-    width: 50vw;
-    background-color: #f8f8f8;
-    border-left: solid 2px #E3E3E3;
 
-}
 
 .infoContainer {
     min-height: 45vh;
@@ -27,9 +21,11 @@
 
 .description {
     text-align: start;
+    width: 50%;
     padding:  0 10px;
 }
 .special{
+    width: max-content;
     border-radius: 10px;
     padding: 5px 10px;
     font-weight: normal;

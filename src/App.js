@@ -1,25 +1,21 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {useState} from 'react';
 import './App.css';
+import Header from './components/header/Header';
+import Footer from './components/footer/Footer';
+import Main from './components/main/Main';
+import InfoPage from './components/infoPage/InfoPage';
+import Menu from './components/header/menu/Menu';
 
 function App() {
+  const [infoPage, setInfoPage] = useState(false)
+  const [menu, setMenu] = useState(false)
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div className="App">
+        <Header setMenu={setMenu}/>
+        {menu && <Menu/>}
+        {infoPage ? <InfoPage setInfoPage={setInfoPage}/> : <Main setInfoPage={setInfoPage}/>}
+        <Footer/>
+      </div>
   );
 }
 

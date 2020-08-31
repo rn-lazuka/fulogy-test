@@ -1,11 +1,10 @@
-import React from 'react';
+.container {
+    height: 12vh;
+    display: flex;
+    background-color: #f8f8f8;
+    padding-left: 5vw;
+    font-family: 'Roboto', sans-serif;
+    border-top: solid 2px #E3E3E3;
+    box-sizing: border-box;
+}
 
-const Footer = () => {
-  return (
-      <div className={s.container}>
-
-      </div>
-  );
-};
-
-export default Footer;

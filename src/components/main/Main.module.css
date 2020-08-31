@@ -1,12 +1,22 @@
-import React from 'react';
+.mainContainer {
+    height: 78vh;
+    composes: block-center from '../../_variables.css';
+    box-sizing: border-box;
+}
 
-const Main = () => {
-  return (
-      <div className={s.mainContainer}>
-        <div></div>
-        <div></div>
-      </div>
-  );
-};
+.photoContainer {
+    height: 100%;
+    width: 50vw;
+    margin-top: 40px;
+    flex: 1 1 40%;
+    padding: 0 5%;
 
-export default Main;
+}
+
+.descriptionContainer {
+    height: 100%;
+    width: 50vw;
+    background-color: #f8f8f8;
+    border-left: solid 2px #E3E3E3;
+}
+

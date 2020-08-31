@@ -1,9 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c8a4c32-81d9-4c89-a28b-b1d340f7a1d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/_variables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/check-mark.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/check-mark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/burgerMenu/HamburgerButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/burgerMenu/HamburgerButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/burgerMenu/MainMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/burgerMenu/MainMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/burgerMenu/SideMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/burgerMenu/SideMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/burgerMenu/hook/onClickOutside.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/burgerMenu/hook/onClickOutside.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/ButtonBLock.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/ButtonBLock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/ButtonBlock.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/ButtonBlock.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/menu/Menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/menu/Menu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/menu/Menu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/menu/Menu.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/infoPage/InfoPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/infoPage/InfoPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/infoPage/InfoPage.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/infoPage/InfoPage.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/Main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/infoBlock/InfoBlock.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/infoBlock/InfoBlock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/infoBlock/InfoBlock.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/infoBlock/InfoBlock.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/mainInfo/MainDescription.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/mainInfo/MainDescription.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/mainInfo/MainDescription.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/mainInfo/MainDescription.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/thumbnails/Thumbnails.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/thumbnails/Thumbnails.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/thumbnails/Thumbnails.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/thumbnails/Thumbnails.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eBk68CvYkaC9aTB6gSXvsBxdFb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../learning/exel-course" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\fulogy\src\components\main\mainInfo" />
+      <recent name="C:\projects\fulogy\src\components\burgerMenu\context" />
+      <recent name="C:\projects\fulogy\src\components\burgerMenu\hook" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\fulogy\src\components\header\menu" />
+      <recent name="C:\projects\fulogy\src\components\infoPage" />
+      <recent name="C:\projects\fulogy\src\components\main\thumbnails" />
+      <recent name="C:\projects\fulogy\src\components\main\mainInfo" />
+      <recent name="C:\projects\fulogy\src\components\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c8a4c32-81d9-4c89-a28b-b1d340f7a1d1" name="Default Changelist" comment="" />
+      <created>1593802195890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593802195890</updated>
+      <workItem from="1593802197578" duration="11604000" />
+      <workItem from="1593848488589" duration="24188000" />
+      <workItem from="1593980973742" duration="8946000" />
+      <workItem from="1594024082049" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="95" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593803607025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="95" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593803607025" />
+    <state x="499" y="105" key="FileChooserDialogImpl" timestamp="1594025897326">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="105" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594025897326" />
+    <state x="403" y="81" width="729" height="662" key="find.popup" timestamp="1593810637771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="403" y="81" width="729" height="662" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1593810637771" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1593983771771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1593983771771" />
   </component>
 </project>

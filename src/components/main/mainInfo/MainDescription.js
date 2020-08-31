@@ -1,13 +1,13 @@
 import React from 'react';
-import s from './MainInfo.module.css';
+import s from './MainDescription.module.css';
 
-const MainInfo = () => {
+const MainDescription = () => {
   return (
-      <div className={s.descriptionContainer}>
+
         <div className={s.infoContainer}>
           <div className={s.itemInfo}>
             <span className={s.property}>Класс:</span>
-            <span className={`${s.description} ${s.special}` }>Standart</span>
+            <span className={s.description}><div className={s.special}>Standart</div></span>
           </div>
           <div className={s.itemInfo}>
             <span className={s.property}>Потребляемая мощьность:</span>
@@ -30,8 +30,8 @@ const MainInfo = () => {
             <span className={s.description}>2594 рублей</span>
           </div>
         </div>
-      </div>
+
   );
 };
 
-export default MainInfo;
+export default MainDescription;

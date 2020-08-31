@@ -1,0 +1,31 @@
+.headerContainer {
+    height: 10vh;
+    background-color: #000000;
+    display: flex;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 20%;
+    color: white;
+    font-size: 4vh;
+    composes: block-center from '../../_variables.css';
+}
+
+.basketContainer {
+    width: 80%;
+    color: white;
+    composes: block-center from '../../_variables.css';
+    justify-content: flex-end;
+}
+.menuContainer {
+    width: 10%;
+    color: white;
+    composes: block-center from '../../_variables.css';
+}
+.burgerMenu{
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    cursor: pointer;
+}
